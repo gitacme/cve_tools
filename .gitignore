@@ -36,3 +36,13 @@ Thumbs.db
 # Ignore logs and temporary files
 *.log
 tmp/
+
+# Ignore the database folder
+database
+
+# Ignore my archive folder
+archive/
+
+# Ignore the output directory
+output/
+
