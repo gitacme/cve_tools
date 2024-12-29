@@ -1,0 +1,38 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Ansible retry files
+*.retry
+
+# Ignore sensitive files (if any)
+secrets.yml
+vault.yml
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+/tmp/
+
+# Ignore pcap files
+*.pcap
+
+# Ignore any generated CSV files
+*.csv
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any temporary files created by the editor
+*~
+*.swp
+
+# Ignore logs and temporary files
+*.log
+tmp/

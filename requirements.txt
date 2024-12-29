@@ -1,0 +1,5 @@
+pandas
+aiosqlite
+asyncio
+aiohttp
+openpyxl
